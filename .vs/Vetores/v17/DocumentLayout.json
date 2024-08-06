@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Projetos C#\\Vetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747F3DEB-7898-4F86-B9F3-319D83F707E3}|Vetores\\Vetores.csproj|c:\\temp\\projetos c#\\vetores\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747F3DEB-7898-4F86-B9F3-319D83F707E3}|Vetores\\Vetores.csproj|solutionrelative:vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747F3DEB-7898-4F86-B9F3-319D83F707E3}|Vetores\\Vetores.csproj|c:\\temp\\projetos c#\\vetores\\vetores\\dadoslocat\u00E1rio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747F3DEB-7898-4F86-B9F3-319D83F707E3}|Vetores\\Vetores.csproj|solutionrelative:vetores\\dadoslocat\u00E1rio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DadosLocat\u00E1rio.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\Vetores\\Vetores\\DadosLocat\u00E1rio.cs",
+              "RelativeDocumentMoniker": "Vetores\\DadosLocat\u00E1rio.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\Vetores\\Vetores\\DadosLocat\u00E1rio.cs",
+              "RelativeToolTip": "Vetores\\DadosLocat\u00E1rio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:15:13.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\Vetores\\Vetores\\Program.cs",
+              "RelativeDocumentMoniker": "Vetores\\Program.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\Vetores\\Vetores\\Program.cs",
+              "RelativeToolTip": "Vetores\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:10:24.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
